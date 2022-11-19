@@ -1,0 +1,23 @@
+{
+  "name": "Sumeth",
+  "version": "1.0.0",
+  "description": "1913210264",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumeth4578/1913210264-RESTFULAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumeth4578/1913210264-RESTFULAPI/issues"
+  },
+  "homepage": "https://github.com/Sumeth4578/1913210264-RESTFULAPI#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
